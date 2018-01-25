@@ -1,0 +1,174 @@
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\ApplicationInsights.config
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Natale.dll.config
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Natale.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Natale.pdb
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Antlr3.Runtime.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Microsoft.AI.Web.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\MongoDB.Bson.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\MongoDB.Driver.Core.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\MongoDB.Driver.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Natale.Classes.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Newtonsoft.Json.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\System.Web.Helpers.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\System.Web.Mvc.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\System.Web.Optimization.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\System.Web.Razor.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\System.Web.WebPages.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\System.Web.WebPages.Razor.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\WebGrease.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Natale.Classes.pdb
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\MongoDB.Bson.xml
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\MongoDB.Driver.xml
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\MongoDB.Driver.Core.xml
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\System.Web.Helpers.xml
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\System.Web.Mvc.xml
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\System.Web.Optimization.xml
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\System.Web.Razor.xml
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\System.Web.WebPages.xml
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\System.Web.WebPages.Razor.xml
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Antlr3.Runtime.pdb
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Newtonsoft.Json.xml
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\Microsoft.AI.Web.xml
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\it\System.Web.Helpers.resources.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\it\System.Web.Mvc.resources.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\it\System.Web.Optimization.resources.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\it\System.Web.Razor.resources.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\it\System.Web.WebPages.resources.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\it\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\bin\it\System.Web.WebPages.Razor.resources.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\obj\Debug\Natale.csprojResolveAssemblyReference.cache
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\obj\Debug\Natale.csproj.CoreCompileInputs.cache
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\obj\Debug\Natale.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale\obj\Debug\Natale.pdb
+C:\Users\Stefano\Desktop\natale-master\Natale\obj\Debug\Natale.csprojResolveAssemblyReference.cache
+C:\Users\Stefano\Desktop\natale-master\Natale\obj\Debug\Natale.csproj.CoreCompileInputs.cache
+C:\Users\Stefano\Desktop\natale-master\Natale\obj\Debug\Natale.dll
+C:\Users\Stefano\Desktop\natale-master\Natale\obj\Debug\Natale.pdb
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\ApplicationInsights.config
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\Natale.dll.config
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\Natale.dll
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\Natale.pdb
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\Antlr3.Runtime.dll
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\Microsoft.AI.Web.dll
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\MongoDB.Bson.dll
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\MongoDB.Driver.Core.dll
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\MongoDB.Driver.dll
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\Natale.Classes.dll
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\Newtonsoft.Json.dll
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\System.Web.Helpers.dll
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\System.Web.Mvc.dll
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\System.Web.Optimization.dll
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\System.Web.Razor.dll
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\System.Web.WebPages.dll
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\System.Web.WebPages.Razor.dll
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\WebGrease.dll
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\Natale.Classes.pdb
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\MongoDB.Bson.xml
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\MongoDB.Driver.xml
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\MongoDB.Driver.Core.xml
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\System.Web.Helpers.xml
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\System.Web.Mvc.xml
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\System.Web.Optimization.xml
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\System.Web.Razor.xml
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\System.Web.WebPages.xml
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\System.Web.WebPages.Razor.xml
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\Antlr3.Runtime.pdb
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\Newtonsoft.Json.xml
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\Microsoft.AI.Web.xml
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\it\System.Web.Helpers.resources.dll
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\it\System.Web.Mvc.resources.dll
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\it\System.Web.Optimization.resources.dll
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\it\System.Web.Razor.resources.dll
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\it\System.Web.WebPages.resources.dll
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\it\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Stefano\Desktop\natale-master\Natale\bin\it\System.Web.WebPages.Razor.resources.dll
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\ApplicationInsights.config
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\Natale.dll.config
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\Natale.dll
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\Natale.pdb
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\Antlr3.Runtime.dll
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\Microsoft.AI.Web.dll
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\Microsoft.ApplicationInsights.dll
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\MongoDB.Bson.dll
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\MongoDB.Driver.Core.dll
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\MongoDB.Driver.dll
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\Natale.Classes.dll
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\Newtonsoft.Json.dll
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\System.Web.Helpers.dll
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\System.Web.Mvc.dll
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\System.Web.Optimization.dll
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\System.Web.Razor.dll
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\System.Web.WebPages.Deployment.dll
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\System.Web.WebPages.dll
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\System.Web.WebPages.Razor.dll
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\WebGrease.dll
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\Natale.Classes.pdb
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\MongoDB.Bson.xml
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\MongoDB.Driver.xml
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\MongoDB.Driver.Core.xml
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\System.Web.Helpers.xml
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\System.Web.Mvc.xml
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\System.Web.Optimization.xml
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\System.Web.Razor.xml
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\System.Web.WebPages.xml
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\System.Web.WebPages.Deployment.xml
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\System.Web.WebPages.Razor.xml
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\Antlr3.Runtime.pdb
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\Newtonsoft.Json.xml
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\Microsoft.ApplicationInsights.xml
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\Microsoft.AI.Web.xml
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\it\System.Web.Helpers.resources.dll
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\it\System.Web.Mvc.resources.dll
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\it\System.Web.Optimization.resources.dll
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\it\System.Web.Razor.resources.dll
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\it\System.Web.WebPages.resources.dll
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\it\System.Web.WebPages.Deployment.resources.dll
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\bin\it\System.Web.WebPages.Razor.resources.dll
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\obj\Debug\Natale.csprojResolveAssemblyReference.cache
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\obj\Debug\Natale.csproj.CoreCompileInputs.cache
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\obj\Debug\Natale.dll
+C:\Users\stefa\OneDrive\Desktop\natale\Natale\obj\Debug\Natale.pdb

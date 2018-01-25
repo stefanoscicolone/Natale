@@ -1,0 +1,14 @@
+﻿@using Natale.Models
+@{
+    ViewBag.Title = "Details";
+}
+@model Richestebimbi
+    <h4>@ViewBag.KidName</h4>
+    <h4>@ViewBag.Status</h4>
+    <h4>@ViewBag.Date</h4>
+    @foreach(var toy in Model.ToyList)
+    {
+        <li>@toy.ToyName</li>
+    }
+
+

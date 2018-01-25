@@ -1,0 +1,25 @@
+﻿@using Natale.Models
+@{
+    ViewBag.Title = "Toys";
+}
+@model Giocattoli
+<div class="row">
+    <div class="col-xs-8">
+        <h2 style="text-align:center;">Giocattoli</h2>
+    </div>
+</div>
+@foreach (var giocattoli in Model.EntityList)
+{
+    <hr />
+    <div class="row">
+        <div class="col-xs-8">
+            <h4>@giocattoli.Name</h4>
+        </div>
+        <div class="col-xs-2">
+            @giocattoli.Amount
+        </div>
+        <div class="col-xs-2">
+            @giocattoli.Price
+        </div>
+    </div>
+}

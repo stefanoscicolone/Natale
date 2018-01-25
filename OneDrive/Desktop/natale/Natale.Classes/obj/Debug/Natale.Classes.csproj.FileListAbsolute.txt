@@ -1,0 +1,39 @@
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale.Classes\bin\Debug\Natale.Classes.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale.Classes\bin\Debug\Natale.Classes.pdb
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale.Classes\bin\Debug\MongoDB.Bson.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale.Classes\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale.Classes\bin\Debug\MongoDB.Driver.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale.Classes\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale.Classes\bin\Debug\MongoDB.Bson.xml
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale.Classes\bin\Debug\MongoDB.Driver.xml
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale.Classes\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale.Classes\obj\Debug\Natale.Classes.csprojResolveAssemblyReference.cache
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale.Classes\obj\Debug\Natale.Classes.csproj.CoreCompileInputs.cache
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale.Classes\obj\Debug\Natale.Classes.dll
+C:\Users\ste\Documents\Visual Studio 2017\Projects\Natale\Natale.Classes\obj\Debug\Natale.Classes.pdb
+C:\Users\Stefano\Desktop\natale-master\Natale.Classes\bin\Debug\Natale.Classes.dll
+C:\Users\Stefano\Desktop\natale-master\Natale.Classes\bin\Debug\Natale.Classes.pdb
+C:\Users\Stefano\Desktop\natale-master\Natale.Classes\bin\Debug\MongoDB.Bson.dll
+C:\Users\Stefano\Desktop\natale-master\Natale.Classes\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Stefano\Desktop\natale-master\Natale.Classes\bin\Debug\MongoDB.Driver.dll
+C:\Users\Stefano\Desktop\natale-master\Natale.Classes\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Stefano\Desktop\natale-master\Natale.Classes\bin\Debug\MongoDB.Bson.xml
+C:\Users\Stefano\Desktop\natale-master\Natale.Classes\bin\Debug\MongoDB.Driver.xml
+C:\Users\Stefano\Desktop\natale-master\Natale.Classes\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Stefano\Desktop\natale-master\Natale.Classes\obj\Debug\Natale.Classes.csprojResolveAssemblyReference.cache
+C:\Users\Stefano\Desktop\natale-master\Natale.Classes\obj\Debug\Natale.Classes.csproj.CoreCompileInputs.cache
+C:\Users\Stefano\Desktop\natale-master\Natale.Classes\obj\Debug\Natale.Classes.dll
+C:\Users\Stefano\Desktop\natale-master\Natale.Classes\obj\Debug\Natale.Classes.pdb
+C:\Users\stefa\OneDrive\Desktop\natale\Natale.Classes\bin\Debug\Natale.Classes.dll
+C:\Users\stefa\OneDrive\Desktop\natale\Natale.Classes\bin\Debug\Natale.Classes.pdb
+C:\Users\stefa\OneDrive\Desktop\natale\Natale.Classes\bin\Debug\MongoDB.Bson.dll
+C:\Users\stefa\OneDrive\Desktop\natale\Natale.Classes\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\stefa\OneDrive\Desktop\natale\Natale.Classes\bin\Debug\MongoDB.Driver.dll
+C:\Users\stefa\OneDrive\Desktop\natale\Natale.Classes\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\stefa\OneDrive\Desktop\natale\Natale.Classes\bin\Debug\MongoDB.Bson.xml
+C:\Users\stefa\OneDrive\Desktop\natale\Natale.Classes\bin\Debug\MongoDB.Driver.xml
+C:\Users\stefa\OneDrive\Desktop\natale\Natale.Classes\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\stefa\OneDrive\Desktop\natale\Natale.Classes\obj\Debug\Natale.Classes.csprojResolveAssemblyReference.cache
+C:\Users\stefa\OneDrive\Desktop\natale\Natale.Classes\obj\Debug\Natale.Classes.csproj.CoreCompileInputs.cache
+C:\Users\stefa\OneDrive\Desktop\natale\Natale.Classes\obj\Debug\Natale.Classes.dll
+C:\Users\stefa\OneDrive\Desktop\natale\Natale.Classes\obj\Debug\Natale.Classes.pdb
